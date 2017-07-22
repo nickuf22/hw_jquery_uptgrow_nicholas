@@ -1,3 +1,3 @@
-$(document).ready(function(){
-     $('img').remove();
+$(document).ready(function () {
+    $('img').remove();
 });
