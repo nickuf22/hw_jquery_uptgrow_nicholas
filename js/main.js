@@ -1,3 +1,3 @@
 $(document).ready(function () {
-    $('img').remove();
+    // jQuery/JavaScript code goes here
 });
